@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi everyone! I studied psychology in Braunschweig, Germany (B.Sc.) and Lund, Sweden (M.Sc) and am currently a PhD candidate at Bielefeld University, Germany. From 2021 to 2024, I joined the work- and organizational psychology group in Bielefeld to work in the "iAtA"-research project. In my PhD research I focus on the use and design of immersive technologies, particularly Augmented Reality (AR) / Extended Reality (XR), for learning. Beyond this, my research interests lie in the fields of technology acceptance at work and in medicine, as well as age discriminatory experiences of young employees.
