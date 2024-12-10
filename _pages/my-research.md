@@ -3,11 +3,11 @@ permalink: /my-research/
 title: "Publications"
 ---
 
-Please check [https://orcid.org/0000-0003-1407-736X] (#) for all updates on publications. 
+Please check [orcid](https://orcid.org/0000-0003-1407-736X) for all updates on publications. 
 
 # 📖 Peer-reviewed Journal Articles
 
-Bödding, R., Bentler, D., Maier, G.W. (2023). Augmented Reality for Constructivist Learning at Work: Current Perspectives and Future Applications. *Gruppe. Interaktion. Organisation: Zeitschrift für Angewandte Organisationspsychologie (GIO), 54(3), 323-334. [https://doi.org/10.1007/s11612-023-00699-0] (#)
+Bödding, R., Bentler, D., Maier, G.W. (2023). Augmented Reality for Constructivist Learning at Work: Current Perspectives and Future Applications. *Gruppe. Interaktion. Organisation: Zeitschrift für Angewandte Organisationspsychologie (GIO), 54(3), 323-334. [https://doi.org/10.1007/s11612-023-00699-0](#)
 
 # 💬 Conferences and others
 
