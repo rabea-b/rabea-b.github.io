@@ -1,5 +1,5 @@
 # Contact me here:
-
+{::nomarkdown}
 <form
   action="https://formspree.io/f/xyzyanwp"
   method="POST"
@@ -15,3 +15,4 @@
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+{:/nomarkdown}
