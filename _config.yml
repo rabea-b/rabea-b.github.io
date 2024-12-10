@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: My Journey in Research
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: Personal website by Rabea Bödding >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+github_username: rabea-b
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rabea Bödding"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a PhD-level researcher in psychology looking at the use and design of Augmented Reality (AR) / Extended Reality (XR) in education."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,15 +76,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/rabea-b"
+    - label: "ORCID"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://orcid.org/0000-0003-1407-736X"
 
 defaults:
   # _posts
