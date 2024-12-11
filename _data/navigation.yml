@@ -5,5 +5,4 @@ main:
     url: /my-research/
   - title: "About Me"
     url: /about/
-  - title: "Contact Me"
-    url: /contact-form/
+
