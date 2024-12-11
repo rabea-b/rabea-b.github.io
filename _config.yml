@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Rabea Bödding"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/RabeaBödding.jpg"
   bio    : "I'm a PhD-level researcher in psychology looking at the use and design of Augmented Reality (AR) / Extended Reality (XR) in education."
   links:
     - label: "My publications on ORCID"
